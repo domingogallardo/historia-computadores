@@ -789,8 +789,9 @@ La primera instrucción carga en el registro B el número hexadecimal
 instrucción carga en el registro A el contenido de esa dirección de
 memoria. La siguiente instrucción incrementa en 1 la dirección de
 memoria que hemos guardado en C y después se carga en B el contenido
-de esa nueva dirección. El resultado es que hemos guardado en los registros A y B los
-contenidos de las direcciones de memoria 10.415 y 10.416. 
+de esa nueva dirección. El resultado es que hemos guardado en los
+registros A y B los contenidos de las direcciones de memoria 10.415 y
+10.416.
 
 El direccionamiento indirecto nos permite hacer cálculos sobre
 direcciones de memoria y guardar después los contenidos de las
